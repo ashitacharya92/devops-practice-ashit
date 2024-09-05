@@ -1,0 +1,8 @@
+Introduction to DevOps
+Introduction to Linux OS
+Version Control Systems
+Cloud Services and DevOps
+Infrastructure as Code (IaC)
+Containerization and Orchestration
+Continuous Integration and Continuous Deployment (CI/CD)
+Real-World DevOps Scenarios
